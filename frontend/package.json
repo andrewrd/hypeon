@@ -1,0 +1,16 @@
+{
+  "name": "wanda",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@expo/ex-navigation": "^2.9.2",
+    "@expo/vector-icons": "~4.0.0",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "expo": "^14.0.0",
+    "react": "~15.4.0",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-14.0.0.tar.gz"
+  }
+}
