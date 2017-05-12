@@ -1,7 +1,7 @@
 # Hypeon
 Hypeon is a image sharing app for entrepeneurs allowing users to share images of their journeys to the world. 
 
-###Launching the api and the app
+### Launching the api and the app
 
 Starting the API
 1. Run mongodb before launch using 'mongod'
