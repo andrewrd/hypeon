@@ -1,3 +1,5 @@
+![Screenshot](https://s3-us-west-1.amazonaws.com/hypeon/Screen+Shot+2017-05-14+at+10.47.31+PM.png)
+
 # Hypeon
 Hypeon is a image sharing app for entrepeneurs allowing users to share images of their journeys to the world. 
 
